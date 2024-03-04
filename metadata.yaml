@@ -1,4 +1,6 @@
 homepage: "https://rooza.nl/"
 versions:
+  - sha: d5f2c87cbf15ae78e03fe1a4e34a1c03a9ec0826
+    changeNotes: Renamed template file
   - sha: d310f7e311a151fe606c3a1aed4cd1c55f1a3222
     changeNotes: Initial release.
