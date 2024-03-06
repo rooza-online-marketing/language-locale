@@ -1,6 +1,14 @@
 homepage: "https://rooza.nl/"
 versions:
+  - sha: b4c1308bf440554b3713bbaf06efa1f15e33517a
+    changeNotes: Updated metadata.yaml with latest commit SHA
+  - sha: d53d1d1ca0498ab691bcf3ff6fa7cfe24a74498b
+    changeNotes: Try again
+  - sha: e5f760a1c58f7da59b652ad4fc9fe379615d2f3d
+    changeNotes: Renamed template file
   - sha: d5f2c87cbf15ae78e03fe1a4e34a1c03a9ec0826
     changeNotes: Renamed template file
+  - sha: c4bad85a396275bd855230e0850421365cb4cea6
+    changeNotes: Update metadata sha version
   - sha: d310f7e311a151fe606c3a1aed4cd1c55f1a3222
-    changeNotes: Initial release.
+    changeNotes: Initial release
